@@ -1,8 +1,8 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Maison Savana — Cuisine d’Afrique & d’ailleurs",
-  description: "Une table généreuse où les saveurs africaines rencontrent une cuisine contemporaine. Réservez votre expérience chez Maison Savana.",
+  title: "Nova-Retau — Grillades, cuisine & convivialité",
+  description: "Poissons braisés, poulet bicyclette, pizzas, chawarmas, burgers et douceurs : découvrez la carte généreuse de Nova-Retau.",
 };
 
 export default function RootLayout({ children }) {
